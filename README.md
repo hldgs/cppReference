@@ -9,3 +9,5 @@ This document will record some ariticles or blogs, which are beneficial when I l
 [理解 C/C++ 中的左值和右值](https://nettee.github.io/posts/2018/Understanding-lvalues-and-rvalues-in-C-and-C/)
 
 [C++ Language](https://cplusplus.com/doc/tutorial/polymorphism/)
+
+[dynamic_cast 在什么情况下会转型失败？](https://www.zhihu.com/question/31602608)
